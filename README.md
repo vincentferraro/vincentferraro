@@ -1,6 +1,6 @@
 Hello World! 👋 
 I'm Vincent, I'm from France and I'm student in bachelor of computer science.
-I want become Back-End Engineer, I'm searching a internship for validate my bachelor.
+I want become Back-End Engineer, I'm lookinf go a internship for validate my bachelor.
 I'm learning Javascript and NodeJS environment
 
 I'm french native but I would like be fluent in english for work in international company.
