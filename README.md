@@ -1,5 +1,5 @@
 Hello World! 👋 
-I'm Vincent, I'm from France and I'm student in bachelor of computer science.
+I'm Vincent, I'm Backend developper NodeJs / Typescript
 
 You can contact me on my Linkedin profile : https://www.linkedin.com/in/vincent-ferraro-442680209/
 
