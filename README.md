@@ -1,5 +1,5 @@
 Hello World! 👋 
-I'm Vincent, I'm Backend developper NodeJs / Typescript
+I'm Vincent, I'm Fullstack developper React / NodeJs / Typescript
 
 You can contact me on my Linkedin profile : https://www.linkedin.com/in/vincent-ferraro-442680209/
 
