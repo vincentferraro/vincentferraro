@@ -1,5 +1,5 @@
 Hello 👋  
-I'm Vincent, a passionate Full Stack Developer working with React, Next.js, Node.js, Strapi, and TypeScript.  
+I'm Vincent, a passionate Full Stack Developer working with React | Next.js | Node.js | Strapi | TypeScript.  
 I build clean, modern, and scalable web applications — from landing pages to full SaaS products.  
 
 Let's connect:  
